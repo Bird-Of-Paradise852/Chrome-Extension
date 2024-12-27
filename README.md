@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Wreck-A-Mole - Beat The Thing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a game called "Beat The Thing." Users can choose the item they want to beat in the game.
 
-## Available Scripts
+Users can simply use the keyboard to type the relevant keystrokes shown on the screen. Correct inputs increase the score, while incorrect ones result in a lost life.
 
-In the project directory, you can run:
+Users can install the game as a Chrome extension.
 
-### `npm start`
+Try Now: https://generation-jfsd12-chrome-extension.github.io/Chrome-Extension/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tools: ReactJS, Tailwind CSS, HTML
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/bc68193b-2670-4a46-8175-dafbc2fd02e3">
 
-### `npm test`
+### Game Stage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Higher stages come with increased speed.
 
-### `npm run build`
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/5f39b810-be10-4485-bdf6-a98bb54b014e">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/860cd32e-5867-4546-b9e4-444ca7e8e5e4">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Win & Game Over
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Winner can continue to next stage. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Loser can retry the current stage.
 
-### `npm run eject`
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/baade32a-1b41-4a87-9400-6e11ce16fbbb">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/8d52c672-9096-4e9b-9dbe-b4751287836f">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Game Record & Leaderboard
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Once you reach a higher level compared to your last game, you can choose a level to play in the next game.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The leaderboard allows users to view the records of other players on the same browser.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/1b57fbbb-dafe-45bd-8d78-fa0d4f6446ab">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/3510b8cf-b35e-4d3a-9641-2d5a2094b902">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/085bbe2c-fc27-4b32-91ee-6706056fdc29">
